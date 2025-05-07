@@ -1,0 +1,2 @@
+# firstmovers
+strategies and plans
